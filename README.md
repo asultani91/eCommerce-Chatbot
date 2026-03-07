@@ -1,2 +1,2 @@
 # eCommerce-Chatbot
-product recommendation chatbot for e-commerce applications, by leveraging Amazon Bedrock Agents
+E-commerce product recommendation chatbot built with Amazon Bedrock Agents, Lambda, DynamoDB, and multi-agent collaboration
